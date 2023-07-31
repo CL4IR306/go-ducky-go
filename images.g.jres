@@ -1,0 +1,19 @@
+{
+    "image1": {
+        "data": "hwQOAA4AAADOzO/+DwAAAN472937//8A3r3T3y3b/QDA3d39Ld0PAADf3d0r3Q8AAL/d3Svd/wDA3d39Ld39AN69098tvQ8A3jvb3bLdDwDOzO/+v9v9AAAAAADw+/8AAAAA+//9AAAAAADf3fsAAAAAAPv/DwAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "policia"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDEwMDAxMDAwMDIwMDAwMDBmMGZmZmYwMDAwMDAwMDAwN2Y3Nzc3MGYwMDAwMDBmMDc3Nzc3N2Y3MDAwMDAwZjA3Nzc3NzdmNzAwMDAwMGYwNzc3Nzc3ZjcwMDAwMDBmMDc3Nzc3N2Y3MDAwMDAwZjA3Nzc3NzdmNzAwMDAwMDAwN2Y3Nzc3MGYwMDAwMDAwMDFmMTExMTBmMDAwMDAwMDBiZWJiZGIwZTAwMDAwMGUwYmJkY2RkZWQwMDAwMDBiZWNiZWRkZGRkMGUwMGUwYmJkY2VlZGVkZGVkMDBlMGNiZWRlZWVlZGRlZDAwZTBiYmRjZWVkZWRkZWQwMDAwZWVlZWVlZWVlZTBlMDAwMDAwMDAwMDAwMDAwMDAwMDAwMGYwZmZmZjAwMDAwMDAwMDA3Zjc3NzcwZjAwMDAwMGYwNzc3Nzc3ZjcwMDAwMDBmMDc3Nzc3N2Y3MDAwMDAwZjA3Nzc3NzdmNzAwMDAwMGYwNzc3Nzc3ZjcwMDAwMDBmMDc3Nzc3N2Y3MDAwMDAwMDA3Zjc3NzcwZjAwMDAwMDAwMWYxMTExMGYwMDAwMDBlMGJiZGNkZGVkMDAwMDAwYmVjYmRkZGRkZDBlMDBlMGJiZGNlZGRkZGRlZDBlZWVjYmRkZWVkZWRkZWQwZWVlYmJkY2VkZGRkZGVkMGVlMGVlZWVlZWVlZWVlZTAw",
+        "displayName": "pato arriba"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
